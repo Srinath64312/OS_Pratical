@@ -1,0 +1,17 @@
+prog1
+prog2
+prog3
+prog4
+prog5
+skilling1
+skilling2
+skilling3
+skilling4
+skilling5
+skilling6
+a.out
+*.o
+*.exe
+access.log
+sample_source.txt
+sample_destination.txt
