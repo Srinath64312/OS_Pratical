@@ -3,6 +3,10 @@ prog2
 prog3
 prog4
 prog5
+prog6_fifo_server
+prog6_fifo_client
+signal_handler
+page_replacement
 skilling1
 skilling2
 skilling3
@@ -13,5 +17,8 @@ a.out
 *.o
 *.exe
 access.log
+*.log
+output.txt
 sample_source.txt
 sample_destination.txt
+make
